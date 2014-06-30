@@ -63,7 +63,7 @@ jQuery(function($) {
 function initialize() {
     var mapOptions = {
       zoom: 12,
-      center: new google.maps.LatLng(16.8451789,96.1439764)
+      center: new google.maps.LatLng(42.7120196,-73.2036898)
     };
 
     var map = new google.maps.Map(document.getElementById('map-canvas'),  mapOptions);

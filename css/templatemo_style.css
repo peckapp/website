@@ -369,6 +369,10 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
     color: #e67e22;
 }
 
+.txt_purple {
+	color: #9421E6;
+}
+
 .txt_slogan {
     font-size:14px; 
     color:#929292;
